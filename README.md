@@ -10,7 +10,7 @@ O curso de Javascript (ES6+), ministrado pelo professor Matheys Battisti, é um 
 <br>
 
 <p align="center">
-  <img alt="capa" src=".github/capa.jpg" width="100%">
+  <img alt="capa" src=".github/capa.jpg" width="50%">
 </p>
 
 <br>
@@ -35,7 +35,7 @@ Neste curso foi utilizada a seguinte tecnologia:
 
 ## 💻 Desafios
 
-- [Jogo da Velha](https://github.com/ThiagoMonts/udemy_javascript/tree/main/Se%C3%A7%C3%A3o%2018%20-%20Projeto%201%20-%20Jogo%20da%20Velha)
+- [Jogo da Velha](https://github.com/ThiagoMonts/udemy_javascript/tree/main/Aulas/Se%C3%A7%C3%A3o%2018%20-%20Projeto%201%20-%20Jogo%20da%20Velha)
 
 
 <br>
